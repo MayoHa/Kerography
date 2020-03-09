@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: 7ab44e72661444ea4b3b72f155c6ecea, type: 3}
+  m_Name: LyricsTrack
+  m_EditorClassIdentifier: 
+  mEventID: Lyrics
+  mEventList:
+  - mStartSample: 1408
+    mEndSample: 16368
+  - mStartSample: 17952
+    mEndSample: 35728
+  - mStartSample: 60896
+    mEndSample: 81136
+  - mStartSample: 96338
+    mEndSample: 156629
+  - mStartSample: 167794
+    mEndSample: 181192
+  - mStartSample: 190762
+    mEndSample: 207350
+  - mStartSample: 209902
+    mEndSample: 217239
+  - mStartSample: 225975
+    mEndSample: 236062
+  - mStartSample: 237241
+    mEndSample: 290928
+  - mStartSample: 323466
+    mEndSample: 354409
+  - mStartSample: 400026
+    mEndSample: 469249
+  - mStartSample: 473204
+    mEndSample: 500990
+  - mStartSample: 501832
+    mEndSample: 549423
+  - mStartSample: 579761
+    mEndSample: 591422
+  - mStartSample: 612352
+    mEndSample: 642551
+  - mStartSample: 647335
+    mEndSample: 675740
+  - mStartSample: 743912
+    mEndSample: 785403
+  - mStartSample: 786429
+    mEndSample: 819559
+  - mStartSample: 822549
+    mEndSample: 836004
+  - mStartSample: 845273
+    mEndSample: 860223
+  - mStartSample: 889525
+    mEndSample: 940355
+  - mStartSample: 943644
+    mEndSample: 1015404
+  - mStartSample: 1051284
+    mEndSample: 1065337
+  - mStartSample: 1075503
+    mEndSample: 1163541
+  - mStartSample: 1164500
+    mEndSample: 1178474
+  - mStartSample: 1192711
+    mEndSample: 1237262
+  - mStartSample: 1276132
+    mEndSample: 1331148
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: Four
+  - mTextVal: score
+  - mTextVal: and
+  - mTextVal: seven years ago
+  - mTextVal: our
+  - mTextVal: fathers
+  - mTextVal: brought
+  - mTextVal: forth
+  - mTextVal: on this continent
+  - mTextVal: a new nation,
+  - mTextVal: conceived in liberty and
+  - mTextVal: dedicated
+  - mTextVal: to the proposition
+  - mTextVal: that
+  - mTextVal: all men are
+  - mTextVal: created equal.
+  - mTextVal: Now we are
+  - mTextVal: engaged
+  - mTextVal: in a
+  - mTextVal: great
+  - mTextVal: civil war
+  - mTextVal: testing whether that nation
+  - mTextVal: or
+  - mTextVal: any nation so conceived
+  - mTextVal: and
+  - mTextVal: so dedicated
+  - mTextVal: can long endure.
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a000000

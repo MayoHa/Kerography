@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2076007791, guid: 7ab44e72661444ea4b3b72f155c6ecea, type: 3}
+  m_Name: KaraokeKoreo
+  m_EditorClassIdentifier: 
+  mSourceClip: {fileID: 8300000, guid: a0047e020d3564e97980aa1b33ab9d80, type: 3}
+  mAudioFilePath: 
+  mSampleRate: 44100
+  mIgnoreLatencyOffset: 0
+  mTempoSections:
+  - sectionName: New Section
+    startSample: 0
+    samplesPerBeat: 22050
+    beatsPerMeasure: 4
+    bStartNewMeasure: 1
+  mTracks:
+  - {fileID: 11400000, guid: 2c4c12b66c1a846dca6eb78c0d10f41e, type: 2}
+  - {fileID: 11400000, guid: f2157b074fa0c4e2f8ecb405a7a7fef2, type: 2}

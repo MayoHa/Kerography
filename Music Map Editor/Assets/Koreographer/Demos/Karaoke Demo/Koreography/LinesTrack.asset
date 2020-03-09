@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: 7ab44e72661444ea4b3b72f155c6ecea, type: 3}
+  m_Name: LinesTrack
+  m_EditorClassIdentifier: 
+  mEventID: Lines
+  mEventList:
+  - mStartSample: 0
+    mEndSample: 0
+  - mStartSample: 95263
+    mEndSample: 95263
+  - mStartSample: 166381
+    mEndSample: 166381
+  - mStartSample: 235743
+    mEndSample: 235743
+  - mStartSample: 308178
+    mEndSample: 308178
+  - mStartSample: 389832
+    mEndSample: 389832
+  - mStartSample: 500460
+    mEndSample: 500460
+  - mStartSample: 605398
+    mEndSample: 605398
+  - mStartSample: 718226
+    mEndSample: 718226
+  - mStartSample: 824318
+    mEndSample: 824318
+  - mStartSample: 944303
+    mEndSample: 944303
+  - mStartSample: 1032713
+    mEndSample: 1032713
+  - mStartSample: 1188904
+    mEndSample: 1188904
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: Four score and\nseven years ago
+  - mTextVal: our fathers brought forth
+  - mTextVal: on this continent
+  - mTextVal: a new nation,
+  - mTextVal: conceived in liberty and dedicated
+  - mTextVal: to the proposition that
+  - mTextVal: all men are created equal.
+  - mTextVal: Now we are engaged
+  - mTextVal: in a great civil war
+  - mTextVal: testing whether that nation
+  - mTextVal: or any nation so conceived
+  - mTextVal: and so dedicated
+  - mTextVal: can long endure.
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
